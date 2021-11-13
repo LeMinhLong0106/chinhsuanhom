@@ -1,0 +1,1 @@
+<div class="alert alert-danger">Bạn không có quyền truy cập vào chức năng này</div>

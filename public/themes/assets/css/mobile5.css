@@ -1,0 +1,8 @@
+﻿.nav-link1{
+    display: block;
+}
+@media only screen and (max-width: 768px) {
+    .nav-link1{
+      display: none;
+  }
+}
